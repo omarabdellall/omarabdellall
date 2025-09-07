@@ -1,16 +1,28 @@
-## Hi there 👋
+# hey, i'm omar 👋
 
-<!--
-**omarabdellall/omarabdellall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+cs & cognitive science | computational cognition & ai | curious about building things that matter  
+💻 skills / tech stack: python | c++ | javascript | react | node.js | git | linux | tensorflow | pytorch | opencv | sql | docker
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### what i'm up to
+- 🔭 currently researching: 2d → 3d mesh generation (diffusion & other tools), under review by iros  
+- 🌱 learning: robotics, full stack (apps & web), ai/computer vision  
+- 💼 internships: 2x software development engineering intern @ aws, summer extern @ citadel  
+- 📫 reach me: [linkedin](https://linkedin.com/in/yourprofile) | [email](mailto:omar.abdellall@yale.edu)
+
+---
+
+### cs & computational courses i've taken
+- intro computing & programming
+- mathematical tools for cs  
+- data structures & programming techniques  
+- intensive algorithms  
+- artificial intelligence  
+- systems programming & computer organization  
+- algorithms of the mind  
+- minds, brains & machines  
+
+### current courses
+- systems programming
+- algorithms of the mind
