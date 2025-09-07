@@ -30,4 +30,4 @@ cs & cognitive science | computational cognition & ai | curious about building t
 ──────────────────────────────
 
 ### github stats
-![omar's github stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+![omar's github stats](https://github-readme-stats.vercel.app/api?username=omarabdellall&show_icons=true&theme=tokyonight)
