@@ -1,6 +1,6 @@
 # hey, i'm omar 👋
 
-cs & cognitive science | computational cognition & ai | obsessed with building things 0 -> 1 
+cs & cognitive science | computational cognition & ai | obsessed with building things from 0 -> 1 
 
 💻 skills / tech stack: python | c++ | javascript | react | node.js | git | linux | tensorflow | pytorch | swift | sql | docker | julia | gen.jl
 
