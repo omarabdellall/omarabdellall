@@ -7,7 +7,8 @@ cs & cognitive science | computational cognition & ai | obsessed with building t
 ──────────────────────────────
 
 ### what i'm up to
-- 🔭 currently researching: 2d → 3d mesh generation (diffusion & other tools), under review by iros  
+- 🔭 currently researching: 2d → 3d mesh generation (diffusion & other tools), under review by ICRA
+  - 👀 check it out here: https://github.com/Apollo-Lab-Yale/SCISM
 - 🌱 learning: robotics, full stack (apps & web), ai/computer vision  
 - 💼 internships: 2x software development engineering intern @ aws, summer extern @ citadel  
 - 📫 reach me: [linkedin](https://linkedin.com/in/yourprofile) | [email](mailto:omar.abdellall@yale.edu)
