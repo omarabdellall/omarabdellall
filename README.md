@@ -2,7 +2,7 @@
 
 cs & cognitive science | computational cognition & ai | obsessed with building things from 0 -> 1 
 
-💻 skills / tech stack: python | c++ | javascript | react | node.js | git | linux | tensorflow | pytorch | swift | sql | docker | julia | gen.jl
+💻 skills / tech stack: python | c++ | javascript | react | node.js | git | linux | tensorflow | pytorch | swift | sql | docker | julia | gen.jl | & more
 
 ──────────────────────────────
 
@@ -11,4 +11,4 @@ cs & cognitive science | computational cognition & ai | obsessed with building t
   - 👀 check it out here: https://arxiv.org/abs/2512.24428
 - 🌱 learning: robotics, ai/computer vision  
 - 💼 internships: 2x software development engineering intern @ aws, summer extern @ citadel  
-- 📫 reach me: [linkedin](https://linkedin.com/in/yourprofile) | [email](mailto:omar.abdellall@yale.edu)
+- 📫 reach me: [linkedin](https://linkedin.com/in/omarabdellall) | [email](mailto:omar.abdellall@yale.edu)
