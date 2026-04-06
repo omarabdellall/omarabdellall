@@ -7,7 +7,7 @@ cs & cognitive science | computational cognition & ai | obsessed with building t
 ──────────────────────────────
 
 ### what i'm up to
-- 🔭 currently researching: 2d → 3d mesh generation (diffusion & other tools), accepted into ICRA 2026!
+- 🔭 currently researching: 2d → 3d mesh generation (diffusion), accepted into ICRA 2026!
   - 👀 check it out here: https://arxiv.org/abs/2512.24428
 - 🌱 learning: robotics, ai/computer vision  
 - 💼 internships: 2x software development engineering intern @ aws, summer extern @ citadel  
